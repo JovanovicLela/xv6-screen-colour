@@ -1,7 +1,7 @@
 # xv6-screen-colour
 > Modification of xv6 operating system
 
-The goal was to modify xv6 system to support changing font and bacground colours.\
+The goal was to modify xv6 system to support changing font and background colours.\
 \
 It contains following functionalities:
 * **show and hide the colour selection menu**
